@@ -1,0 +1,160 @@
+
+/* header */
+
+header { position: sticky;
+		top: 0px;
+		background-color:#f6f8f9 ;
+		z-index: 100; }
+
+.logo { display:inline-block;
+		margin-left: 20px;
+		margin-top: 21px;
+		margin-right: 70px;}
+
+
+
+nav { display: inline-block; 
+	}
+
+
+.redphoto { display: inline-block;
+			margin-left: 39px;
+			} 
+
+
+li { display: inline-block;
+	font-family: helvetica; 
+	margin-left: 20px;
+	color: #343638;}
+
+
+
+
+
+/* section  */
+
+h4 { font-size: 24px; 
+	margin-left: 140px;
+	margin-top: 25px;
+	color: #202124;}
+
+.rellative { position: relative;
+			margin-top: 40px; }
+
+
+.absoloute { position: absolute; 
+	top: 28px ;
+	margin-left: 40px;
+	color: #ffffff;
+	font-family: helvetica;
+	font-size: 16px;}
+
+
+.lorem1 { width:281px ; 
+		  height:38px ;
+		  margin-top: 66px;
+		  color: #a6adb4;}
+
+
+
+.saati { display: inline-block; }
+
+
+.hour { display: inline-block;
+		margin-top: 10px; }
+
+
+
+
+
+.page1 { display: inline-block; }		
+
+.page2 { display: inline-block; 
+		margin-left: 40px;}
+
+.page3 { display: inline-block;
+		margin-left: 40px; }
+
+.happe { margin-top: 58px; }
+
+.absolout { position: absolute; 
+	        top: 195px ;
+	        margin-left: 308px ; 
+	        color: #ffffff;
+	        font-family: helvetica;}
+
+.section1 { display: inline-block; }
+
+
+.section2 {display: inline-block; 
+			width: 360px; 
+			height: 210px;
+			vertical-align:top;
+			margin-top: 40px;}
+
+
+.mainsection { margin-left: 140px; }
+
+.khidi { margin-bottom: 40px; 
+		 margin-right: 40px;}
+
+.spilo { margin-bottom: 102px; }		 
+
+.tuti { margin-bottom: 102px }
+
+
+
+
+
+
+/*  footer */
+
+
+
+.foterlogo { display: inline-block;
+				margin-left: 142px;
+				vertical-align: top;
+			    margin-top: 59px;
+				color: #ffffff;
+			    font-family: acumin pro;}
+
+.footerone { display: inline-block;
+			 margin-left: 91px;
+			 margin-top: 59px;
+			 color: #ffffff;
+			 font-family: helvetica;}
+
+.footertwo { display: inline-block;
+			 margin-left: 69px; 
+			 color: #ffffff;
+			 font-family: helvetica;}
+
+.footerthree { display: inline-block; 
+			   margin-left: 84px;
+			   color: #ffffff;
+			   font-family: helvetica;}
+
+.footerfour { display: inline-block;
+			  margin-left: 104px;
+			  vertical-align: top;
+			  margin-top: 59px;
+			  color: #ffffff;
+			  font-family: helvetica;}
+
+.footerfive { display: inline-block;
+			  margin-left: 104px;
+			  vertical-align: top;
+			    margin-top: 59px; }
+
+.footermain { background-color: #a6adb4;
+             width: 1440px; 
+         	 height: 200px;
+         	 margin-top: 37px;}
+
+
+
+.instagram { padding-right: 30px; }
+
+.twitter { padding-right: 30px; }
+
+.facebook { padding-right: 30px; }
