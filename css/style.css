@@ -4,7 +4,8 @@
 header { position: sticky;
 		top: 0px;
 		background-color:#f6f8f9 ;
-		z-index: 100; }
+		z-index: 100;
+		flex-shrink: 0px; }
 
 .logo { display:inline-block;
 		margin-left: 20px;
@@ -121,25 +122,29 @@ h4 { font-size: 24px;
 .footerone { display: inline-block;
 			 margin-left: 91px;
 			 margin-top: 59px;
-			 color: #ffffff;
-			 font-family: helvetica;}
+			 color: #cbd0d3;
+			 font-family: helvetica;
+		     line-height: 25px;}
 
 .footertwo { display: inline-block;
 			 margin-left: 69px; 
-			 color: #ffffff;
-			 font-family: helvetica;}
+			 color: #cbd0d3;
+			 font-family: helvetica;
+			 line-height: 25px;}
 
 .footerthree { display: inline-block; 
 			   margin-left: 84px;
-			   color: #ffffff;
-			   font-family: helvetica;}
+			   color: #cbd0d3;
+			   font-family: helvetica;
+			   line-height: 25px;}
 
 .footerfour { display: inline-block;
 			  margin-left: 104px;
 			  vertical-align: top;
-			  margin-top: 59px;
-			  color: #ffffff;
-			  font-family: helvetica;}
+			  margin-top: 70px;
+			  color: #cbd0d3;
+			  font-family: helvetica;
+			  font-size: 11px;}
 
 .footerfive { display: inline-block;
 			  margin-left: 104px;
