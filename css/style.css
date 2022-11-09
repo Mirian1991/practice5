@@ -5,7 +5,10 @@ header { position: sticky;
 		top: 0px;
 		background-color:#f6f8f9 ;
 		z-index: 100;
-		flex-shrink: 0px; }
+		flex-shrink: 0px; 
+		width: 1440px;
+		height: 50px; }
+
 
 .logo { display:inline-block;
 		margin-left: 20px;
@@ -25,9 +28,13 @@ nav { display: inline-block;
 
 li { display: inline-block;
 	font-family: helvetica; 
-	margin-left: 20px;
-	color: #343638;}
+	margin-left: 10px;
+	color: #343638;
+	font-weight: bold;
+	font-size: 11px;
+	color: #a6adb4;}
 
+.home { color: #202124; }
 
 
 
@@ -35,9 +42,10 @@ li { display: inline-block;
 /* section  */
 
 h4 { font-size: 24px; 
-	margin-left: 140px;
-	margin-top: 25px;
-	color: #202124;}
+	 margin-top: 25px;
+	 color: #202124;
+	 font-family: helvetica;
+	 font-weight: bold;}
 
 .rellative { position: relative;
 			margin-top: 40px; }
@@ -87,7 +95,7 @@ h4 { font-size: 24px;
 .section1 { display: inline-block; }
 
 
-.section2 {display: inline-block; 
+.section2  {display: inline-block; 
 			width: 360px; 
 			height: 210px;
 			vertical-align:top;
@@ -103,6 +111,7 @@ h4 { font-size: 24px;
 
 .tuti { margin-bottom: 102px }
 
+body { background-color: f6f8f9; }
 
 
 
@@ -149,7 +158,9 @@ h4 { font-size: 24px;
 .footerfive { display: inline-block;
 			  margin-left: 104px;
 			  vertical-align: top;
-			    margin-top: 59px; }
+			  margin-top: 58px;
+			  width: 170px;
+			  height: 16px;}
 
 .footermain { background-color: #a6adb4;
              width: 1440px; 
@@ -163,3 +174,8 @@ h4 { font-size: 24px;
 .twitter { padding-right: 30px; }
 
 .facebook { padding-right: 30px; }
+
+
+
+
+
